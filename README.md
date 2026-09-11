@@ -1,2 +1,2 @@
 # Java-Learning
-My Java Learning Journey for Qa Automation
+My Java Learning Journey for QA Automation
